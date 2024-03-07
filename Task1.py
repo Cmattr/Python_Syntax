@@ -1,4 +1,4 @@
-weather = "cloudy"
+weather = "Sunny"
 
 if weather == "sunny":
     print ("wear Sunglasses")
